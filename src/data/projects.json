@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Study Planner",
+      "imageSrc": "projects/project.png",
+      "description": "This is a basic web development project used as a study planner.",
+      "skills": ["HTML", "CSS", "JavaScript", "PHP"],
+      "source": "https://github.com/Janashruthi-B/study_planner"
+    },
+    {
+      "title": "YOLOv5",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to detect brain tumor using YOLO version 5.",
+      "skills": ["Python", "Roboflow", "ML"],
+      "source": "https://github.com/Janashruthi-B/yolov5_brain_tumor_detection"
+    },
+    {
+      "title": "YOLOv8",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to detect brain tumor using YOLO version 8.",
+      "skills": ["Python", "Roboflow", "ML"],
+      "source": "https://github.com/Janashruthi-B/yolov8_brain_tumor"
+    }
+  ]
